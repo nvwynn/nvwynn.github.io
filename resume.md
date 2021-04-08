@@ -1,4 +1,4 @@
-# Natalie Vaughan-Wynn - TEST push to Atom
+# Natalie Vaughan-Wynn - TEST back to Git
 
 nvwynn@uw.edu
 
