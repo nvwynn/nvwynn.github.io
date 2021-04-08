@@ -28,3 +28,5 @@ MA Sustainable International Development (2009-2011)
 ## Eastern Washington University
 
 BA Business Administration/Economics (1998-2004)
+
+![My cat, Rick](Images/RickValentinesday.jpg)
