@@ -1,4 +1,4 @@
-# Natalie Vaughan-Wynn - TEST 3
+# Natalie Vaughan-Wynn 
 
 nvwynn@uw.edu
 
