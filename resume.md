@@ -1,4 +1,4 @@
-# Natalie Vaughan-Wynn - TEST back to Git
+# Natalie Vaughan-Wynn
 
 nvwynn@uw.edu
 
@@ -11,7 +11,7 @@ Ph.D. Student, non-profit consultant, small business owner, Returned Peace Corps
 
 ## University of Washington
 
-Pre-doctoral Teaching Associate (Fall 2020 - Present)
+Geography Department Pre-doctoral Teaching Associate (Fall 2020 - Present)
 
 
 - **Teaching Assistant, GEOG 208**
