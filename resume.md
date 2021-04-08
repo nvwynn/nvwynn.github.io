@@ -29,4 +29,5 @@ MA Sustainable International Development (2009-2011)
 
 BA Business Administration/Economics (1998-2004)
 
+<img source="Images/RickValentinesday.jpg" width=100
 ![My cat, Rick](Images/RickValentinesday.jpg)
