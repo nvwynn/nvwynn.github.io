@@ -7,6 +7,10 @@
 # Summary
 >Ph.D. Student, non-profit consultant, small business owner, Returned Peace Corps Volunteer, Americorps Alum
 
+# Current project
+
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vS_iuMXnp61wlo4amm5nvHr4Ir8VUzisJSBsr7YEL7fKWAiT-9bmehyngtb9TYaFEsFnRokCyIXwsvY/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+
 # Work Experience
 
 >10+ years of NGO, government, and private sector work on three continents
