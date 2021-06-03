@@ -9,7 +9,9 @@
 
 # Current project
 
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vS_iuMXnp61wlo4amm5nvHr4Ir8VUzisJSBsr7YEL7fKWAiT-9bmehyngtb9TYaFEsFnRokCyIXwsvY/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+<a href="https://docs.google.com/presentation/d/1NuxLL34gYDkVkI08fg4HMFAKsbss4f5VgQTYKjH66cw/edit?usp=sharing
+" target="_blank"><img src="Images/GeoHumpres.jpg"
+alt="IMAGE ALT TEXT HERE" width="340" height="180" border="0" /></a>
 
 # Work Experience
 
